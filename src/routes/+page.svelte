@@ -63,8 +63,8 @@
 		<div class="container mx-auto px-4 sm:px-6 lg:px-8">
 			<div class="flex h-16 items-center justify-between">
 				<div class="flex items-center gap-2">
-					<div class="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-						<span class="text-xl font-bold text-primary-foreground">D</span>
+					<div class="flex h-14 w-14 items-center justify-center rounded-lg">
+						<img src="/logo.png" alt="Dunas Lab Logo" />
 					</div>
 					<span class="text-xl font-bold text-foreground">Dunas Lab</span>
 				</div>
